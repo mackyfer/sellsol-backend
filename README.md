@@ -8,4 +8,3 @@
    RPC_WEBSOCKET_ENDPOINT=wss://api.mainnet-beta.solana.com
    COMMITMENT_LEVEL=finalized
    WALLET_PRIVATE_KEY=<your wallet private key>  
-```
